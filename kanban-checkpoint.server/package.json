@@ -23,9 +23,7 @@
     "socket.io": "2.3.0"
   },
   "engines": {
-    "node": "^14.0.0"
-  },
-  "devDependencies": {
+    "node": "^14.0.0",
     "babel-eslint": "^10.1.0",
     "bootstrap": "^4.6.0",
     "sass": "^1.32.4"
